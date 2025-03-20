@@ -35,7 +35,7 @@ pip install pillow
    ```
 2. Navigate to the project folder:
    ```sh
-   cd face-attendance-system
+   cd smart_face_attendence
    ```
 3. Run the application:
    ```sh
