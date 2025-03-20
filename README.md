@@ -1,5 +1,5 @@
-# smart_face_attendence
-# Face Recognition Attendance System
+#FACE VERIFY ATTENDENCE
+
 
 This project is a face recognition-based attendance system using Python and Tkinter. It allows users to register themselves and log in using their face. The system captures real-time webcam footage and uses face recognition for authentication.
 
